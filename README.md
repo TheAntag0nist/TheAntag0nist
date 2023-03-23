@@ -1,15 +1,15 @@
-## Hi, my name is Rurik and I am a student of GUAP
+## Hi there, I'm Rurik! 👋
+I'm a software developer with a keen interest in graphics and game engines development. I have experience in programming with C++, and I'm particularly enthusiastic about working with the Vulkan SDK and OpenGL.
+About me
 
-**About me**
+    🔭 I’m currently working on game engine development projects.
+    🌱 I’m constantly learning and exploring new technologies in the graphics and gaming industry.
+    💬 Ask me about C++, Vulkan SDK, OpenGL, Graphics and Game Engines Development.
 
-- 💼 Programmer from S-INFO
-
-- 🎃 I am striving to improve my skills in C/C++
-
-
-<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+### Languages
+<code><img height="20" alt="C++" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg"></code>
+<code><img height="20" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
+<code><img height="20" alt="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="20" alt="NASM" src="https://www.nasm.us/images/nasm.png"></code>
 
 ### Stats
@@ -17,12 +17,12 @@
   <tr>
     <th> 
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAntag0nist&theme=radical"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAntag0nist&theme=dark"/>
       </a>
     </th>
     <th>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAntag0nist&theme=radical&layout=compact"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAntag0nist&theme=dark&layout=compact"/>
       </a>
     </th>
   </tr>
