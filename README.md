@@ -7,11 +7,11 @@ About me
     💬 Ask me about C++, Vulkan SDK, OpenGL, Graphics and Game Engines Development.
 Technologies and Tools I work with
 
-    + Programming languages: C++, C, C#
-    + Graphics APIs: Vulkan SDK, OpenGL
-    + Game engines: Unreal Engine 4, Unity 3D
-    + Version control: Git
-    + IDEs: Visual Studio, Visual Studio Code
+    * Programming languages: C++, C, C#
+    * Graphics APIs: Vulkan SDK, OpenGL
+    * Game engines: Unreal Engine 4, Unity 3D
+    * Version control: Git
+    * IDEs: Visual Studio, Visual Studio Code
 
 ### Languages
 <code><img height="20" alt="C++" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg"></code>
