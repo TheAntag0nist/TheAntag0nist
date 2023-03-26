@@ -4,11 +4,11 @@ About me
 
     🔭 I’m currently working on game engine development projects.
     🌱 I’m constantly learning and exploring new technologies in the graphics and gaming industry.
-    💬 Ask me about C++, Vulkan SDK, OpenGL, Graphics and Game Engines Development.
+    💬 Ask me about C++, Vulkan SDK, OpenGL, OpenCL, Graphics and Game Engines Development.
 Technologies and Tools I work with
 
     * Programming languages: C++, C, C#
-    * Graphics APIs: Vulkan SDK, OpenGL
+    * Graphics APIs: Vulkan SDK, OpenGL, OpenCL
     * Game engines: Unreal Engine 4, Unity 3D
     * Version control: Git
     * IDEs: Visual Studio, Visual Studio Code
