@@ -24,12 +24,12 @@ Technologies and Tools I work with
   <tr>
     <th> 
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAntag0nist&theme=dark&count_private=true"/>
+        <img align="center" src="https://antag0nist-readme-stats.vercel.app/api?username=TheAntag0nist&theme=dark&count_private=true"/>
       </a>
     </th>
     <th>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAntag0nist&theme=dark&layout=compact"/>
+        <img align="center" src="https://antag0nist-readme-stats.vercel.app/api/top-langs/?username=TheAntag0nist&theme=dark&layout=compact"/>
       </a>
     </th>
   </tr>
