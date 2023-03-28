@@ -14,10 +14,10 @@ Technologies and Tools I work with
     * IDEs: Visual Studio, Visual Studio Code
 
 ### Languages
-<code><img height="20" alt="C++" src="https://github.com/TheAntag0nist/TheAntag0nist/blob/master/resources/cpp.svg"></code>
-<code><img height="20" alt="C" src="https://github.com/TheAntag0nist/TheAntag0nist/blob/master/resources/c-original.svg"></code>
-<code><img height="20" alt="C#" src="https://github.com/TheAntag0nist/TheAntag0nist/blob/master/resources/csharp.svg"></code>
-<code><img height="20" alt="NASM" src="https://github.com/TheAntag0nist/TheAntag0nist/blob/master/resources/nasm.png"></code>
+<code><img height="40" alt="C++" src="https://github.com/TheAntag0nist/TheAntag0nist/blob/master/resources/cpp.svg"></code>
+<code><img height="40" alt="C" src="https://github.com/TheAntag0nist/TheAntag0nist/blob/master/resources/c-original.svg"></code>
+<code><img height="40" alt="C#" src="https://github.com/TheAntag0nist/TheAntag0nist/blob/master/resources/csharp.svg"></code>
+<code><img height="40" alt="NASM" src="https://github.com/TheAntag0nist/TheAntag0nist/blob/master/resources/nasm.png"></code>
 
 ### Stats
 <table>
