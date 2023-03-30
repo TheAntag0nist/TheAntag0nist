@@ -22,18 +22,21 @@ Technologies and Tools I work with
 ### Stats
 <table>
   <tr>
-    <th> 
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+    <td> 
+      <p align="center">
         <img align="center" src="https://antag0nist-readme-stats.vercel.app/api?username=TheAntag0nist&theme=dark&count_private=true"/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      </p>
+    </td>
+    <td>
+      <p align="center">
         <img align="center" src="https://antag0nist-readme-stats.vercel.app/api/top-langs/?username=TheAntag0nist&theme=dark&layout=compact"/>
-      </a>
-    </th>
+      </p>
+    </td>
   </tr>
+    <td colspan="2">
+        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAntag0nist&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="TheAntag0nist" /></p>
+    </td>
 </table>
 
 <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAntag0nist&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="TheAntag0nist" /></p>
+
