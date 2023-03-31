@@ -33,7 +33,14 @@ Technologies and Tools I work with
       </p>
     </td>
   </tr>
+    <tr>
     <td colspan="2">
         <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAntag0nist&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="TheAntag0nist" /></p>
     </td>
+    </tr>
+    <tr>
+    <td colspan="2">
+        <p align="center"> <a href="https://github.com/TheAntag0nist"><img src="https://github-profile-trophy.vercel.app/?username=TheAntag0nist&margin-w=5&theme=radical" alt="TheAntag0nist" /></a> </p>
+    </td>
+    </tr>
 </table>
