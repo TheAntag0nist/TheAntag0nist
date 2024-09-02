@@ -1,5 +1,5 @@
 ## Hi there, I'm Rurik! 👋
-I'm a software developer with a keen interest in graphics and game engines development. I have experience in programming with C++, and I'm particularly enthusiastic about working with the Vulkan SDK and OpenGL.
+I'm a software developer with a keen interest in graphics and game engines development. I have experience in programming with C++, and I'm particularly enthusiastic about working with the Vulkan and OpenGL.
 About me
 
     🔭 I’m currently working on game engine development projects.
@@ -8,7 +8,7 @@ About me
 Technologies and Tools I work with
 
     * Programming languages: C++, C, C#
-    * Graphics APIs: Vulkan SDK, OpenGL, OpenCL
+    * Graphics APIs: Vulkan, OpenGL, OpenCL
     * Game engines: Unreal Engine 4, Unity 3D
     * Version control: Git
     * IDEs: Visual Studio, Visual Studio Code
